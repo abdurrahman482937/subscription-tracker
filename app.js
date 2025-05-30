@@ -9,4 +9,3 @@ app.get("/", (req, res) => {
 app.listen(PORT || 5500, () => {
     console.log(`Subscription Tracker Server On. PORT http://localhost:${PORT || 5500}`);
 })
-
